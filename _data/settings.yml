@@ -32,11 +32,9 @@ menu:
 
 social_label: Connect
 social:
-- {icon: 'twitter',   link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'github',    link: 'https://github.com/lenpaul'}
+- {icon: 'github',    link: 'https://github.com/macytrout'}
 - {icon: 'linkedin',  link: 'https://www.linkedin.com/in/macytrout/'}
-- {icon: 'envelope',  link: 'mailto:mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'envelope',  link: 'mailto:mailto:macyt@upenn.edu'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
